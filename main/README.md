@@ -66,9 +66,7 @@ I'm having some challenges deploying to Heroku
 
 ## Added Feature #1:
 
-July 1 2021
-
 Added the following feature:
 
-- Added one field for BlogPost: **Description**
+- Added one field for BlogPost: Description
   The Description field will contain short description of the blog; it will be distinct from the Body; the Description will be displayed on the main page while the Body is not.
